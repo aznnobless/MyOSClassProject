@@ -16,3 +16,6 @@ Due to busy schedule, I will refactor it later.
 * Command pattern is applied.
 * Singleton pattern is applied.
 
+### Simple Virtual Memory
+
+* Passed class requirement, but with TLB mode is not correct if it runs independently. Just fix it later.
