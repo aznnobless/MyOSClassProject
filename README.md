@@ -15,6 +15,7 @@ Due to busy schedule, I will refactor it later.
 
 * Command pattern is applied.
 * Singleton pattern is applied.
+* State pattern is applied.
 
 ### Simple Virtual Memory
 
